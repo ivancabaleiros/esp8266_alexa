@@ -11,3 +11,6 @@ Placa ESP8266 conectada con Alexa
 2. Reemplazar <PASS> polo contrasinal do teu WIFI
 3. Reemplazar <DEVICE_NAME> polo nome co que quieras identificar o dispositivo con Alexa
   
+
+## Librerías utiilizadas
+# A código fonte da librería que permite controlar o dispositivo pode verse no seguinte enlace: https://bitbucket.org/xoseperez/fauxmoesp
