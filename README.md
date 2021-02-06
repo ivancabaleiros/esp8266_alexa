@@ -13,4 +13,4 @@ Placa ESP8266 conectada con Alexa
   
 
 ## Librerías utiilizadas
-# A código fonte da librería que permite controlar o dispositivo pode verse no seguinte enlace: https://bitbucket.org/xoseperez/fauxmoesp
+O código fonte da librería que permite controlar o dispositivo pode verse no seguinte enlace: https://bitbucket.org/xoseperez/fauxmoesp
